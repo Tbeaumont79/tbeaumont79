@@ -14,7 +14,7 @@
 ## 🚀 Projects
 
 - 📝 **Collaborative Markdown Note App** – A real-time web app for shared note-taking (in progress)
-- 💡 **Web Development Learning Platform** – A kata-based learning system with automatic correction using Docker (comming next)
+- 💡 **Web Development Learning Platform** – A kata-based learning system with automatic correction using Docker (coming next)
 
 ## 📫 Contact & Links
 
