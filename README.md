@@ -18,7 +18,7 @@
 
 ## 📫 Contact & Links
 
-- [LinkedIn](https://www.linkedin.com/in/thibault-beaumont/)
+- [LinkedIn](https://www.linkedin.com/in/beaumont-thibault/)
 - [Portfolio](https://thibaultbeaumont.netlify.app)
 
 ## 🎮 Fun Facts
