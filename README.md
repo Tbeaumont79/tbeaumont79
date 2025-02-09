@@ -23,7 +23,7 @@
 
 ## 🎮 Fun Facts
 
-- 🎾 I play tennis and love rock climbing
+- 🎾 I play tennis and love climbing
 - ☕ Trying to reduce my coffee intake... but still a fan!
 
 Thanks for visiting my profile! 🚀
