@@ -12,8 +12,8 @@
 - 🛠️ **Tools:** Git, Mercure, MySQL, PostgreSQL
 
 ## 🚀 Projects
-
-- 📝 **Collaborative Markdown Note App** – A real-time web app for shared note-taking (in progress)
+- 🗨️ **A chat App** – A real-time web app to share message (in progress)
+- 📝 **Collaborative Markdown Note App** – A real-time web app for shared note-taking (coming next)
 - 💡 **Web Development Learning Platform** – A kata-based learning system with automatic correction using Docker (coming next)
 
 ## 📫 Contact & Links
