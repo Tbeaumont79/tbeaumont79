@@ -27,6 +27,9 @@
 - ☕ Trying to reduce my coffee intake... but still a fan!
 
 Thanks for visiting my profile! 🚀
+![Visitor Count](https://profile-counter.glitch.me/{Tbeaumont79}/count.svg)
+
+
 <!--
 **Tbeaumont79/tbeaumont79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
