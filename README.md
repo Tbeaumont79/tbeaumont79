@@ -18,7 +18,9 @@
 
 ## 📫 Contact & Links
 
-- [LinkedIn](https://www.linkedin.com/in/beaumont-thibault/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/beaumont-thibault/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - [Portfolio](https://thibaultbeaumont.netlify.app)
 
 ## 🔥 GitHub stats
@@ -40,13 +42,6 @@
 
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tbeaumont79&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Tbeaumont79/github-readme-activity-graph)
-
-<h3 align="center">Visitor's count</h3>
-
-Thanks for visiting my profile! 🚀
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/{Tbeaumont79}/count.svg)
-</p>
 
 
 <!--
