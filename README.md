@@ -44,8 +44,9 @@
 <h3 align="center">Visitor's count</h3>
 
 Thanks for visiting my profile! 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/{Tbeaumont79}/count.svg)
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/{Tbeaumont79}/count.svg)
+</p>
 
 
 <!--
