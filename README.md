@@ -1,20 +1,6 @@
 # 👋 I'm Thibault Beaumont
 
-## 🚀 A Web Developer
-
-🔭 I’m currently working on a **collaborative markdown note app** using Symfony, Analog.js, and Mercure.
-
-## 🛠 Tech Stack
-
-- 🖥️ **Languages:** TypeScript, PHP
-- ⚡ **Frameworks:** Symfony, Angular, Analog.js
-- 📦 **DevOps:** Docker, Caddy, Apache
-- 🛠️ **Tools:** Git, Mercure, MySQL, PostgreSQL
-
-## 🚀 Projects
-- 🗨️ **A chat App** – A real-time web app to share message (in progress)
-- 📝 **Collaborative Markdown Note App** – A real-time web app for shared note-taking (coming next)
-- 💡 **Web Development Learning Platform** – A kata-based learning system with automatic correction using Docker (coming next)
+## 🚀 A Fullstack Web developer
 
 ## 📫 Contact & Links
 
