@@ -1,6 +1,4 @@
-# 👋 I'm Thibault Beaumont
-
-## 🚀 A Fullstack Web developer
+# 🚀 I'm A Fullstack Web developer
 
 ## 📫 Contact & Links
 
@@ -25,22 +23,3 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-
-[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tbeaumont79&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Tbeaumont79/github-readme-activity-graph)
-
-
-<!--
-**Tbeaumont79/tbeaumont79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
