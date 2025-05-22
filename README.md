@@ -1,4 +1,4 @@
-# 🚀 I'm A Fullstack Web developer
+# 🚀 I'm a Fullstack Web developer
 
 ## 📫 Contact & Links
 
