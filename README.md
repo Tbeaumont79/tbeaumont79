@@ -2,7 +2,7 @@
 
 ## 🎤 Conference
 
-ng-baguette Nantes 24 Mai 2025
+<p>ng-baguette Nantes 24 Mai 2025</p>
 
 ## 📫 Contact & Links
 
