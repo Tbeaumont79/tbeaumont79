@@ -1,5 +1,9 @@
 # 🚀 I'm a Fullstack Web developer
 
+## 🎤 Conference
+
+ng-baguette Nantes 24 Mai 2025
+
 ## 📫 Contact & Links
 
 <p align="center">
