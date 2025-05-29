@@ -2,7 +2,8 @@
 
 ## 🎤 Conference
 
-<p>ng-baguette Nantes 24 Mai 2025</p>
+<p>🇫🇷 ng-baguette Nantes 24 Mai 2025</p>
+<p>🇪🇸 MadVue</p>
 
 ## 📫 Contact & Links
 
