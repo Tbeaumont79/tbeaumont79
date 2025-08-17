@@ -4,6 +4,7 @@
 
 <p>🇫🇷 ng-baguette Nantes 24 Mai 2025</p>
 <p>🇪🇸 MadVue</p>
+<p>FrontEnd Nation</p>
 
 ## 📫 Contact & Links
 
