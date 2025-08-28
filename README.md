@@ -1,5 +1,11 @@
 # 🚀 I'm a Fullstack Web developer
 
+## 👤 About Me
+
+Hi, I'm Thibault Beaumont a Fullstack Web Developer based in Paris, France. I specialize in building high-performance web applications with a strong focus on user experience and modern architecture. My expertise spans both frontend and backend technologies, including Angular, Symfony, PHP, and JavaScript. I'm passionate about open source, and continuously learning through conferences, community meetups, and hands-on projects.
+
+I enjoy tackling complex challenges such as multi-tenant architecture and web security, and I strive to align my daily work with long-term professional growth. As an advocate for transparency and collaboration, I actively contribute to developer communities and maintain a presence on GitHub and LinkedIn. Let's connect and build something impactful together!
+
 ## 🎤 Conference
 <ul>
  <li> 🇫🇷 ng-baguette Nantes (May 24, 2025) </li>
