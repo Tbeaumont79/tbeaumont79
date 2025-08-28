@@ -1,17 +1,31 @@
 # 🚀 I'm a Fullstack Web developer
 
 ## 🎤 Conference
-
-<p>🇫🇷 ng-baguette Nantes 24 Mai 2025</p>
-<p>🇪🇸 MadVue</p>
-<p>FrontEnd Nation</p>
+<ul>
+ <li> 🇫🇷 ng-baguette Nantes (May 24, 2025) </li>
+ <li> 🇪🇸 MadVue </li>
+ <li> 🌍 FrontEnd Nation </li>
+</ul>
 
 ## 📫 Contact & Links
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beaumont-thibault/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+  <a href="https://www.linkedin.com/in/beaumont-thibault/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  </a>
+
+  <a href="https://thibaultbeaumont.dev">
+  <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+
+  </a>
+
+  <a href="mailto:beaumont.thibault@icloud.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+</p>
 
 ## 🔥 GitHub stats
 
