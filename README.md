@@ -8,7 +8,7 @@ I enjoy tackling complex challenges such as multi-tenant architecture and web se
 
 ## 🎤 Conference
 <ul>
- <li> 🇫🇷 ng-baguette Nantes (May 24, 2025) </li>
+ <li> 🇫🇷 Ng-baguette Nantes (May 24, 2025) </li>
  <li> 🇪🇸 MadVue </li>
  <li> 🌍 FrontEnd Nation </li>
 </ul>
@@ -18,7 +18,7 @@ I enjoy tackling complex challenges such as multi-tenant architecture and web se
 <p align="center">
 
   <a href="https://www.linkedin.com/in/beaumont-thibault/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 
   </a>
 
